@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(163, 163, 213);
+  color: #000;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.heading {
+  color: yellow;
+}
+
+p {
+  cursor: pointer;
+}
+
+.label-score {
+  font-size: 40px;
+  color: rgb(5, 67, 5, 0.5);
+}
